@@ -1,0 +1,9 @@
+#clock > h1 {
+    font-size: 10rem;
+}
+
+@media screen and (max-width: 480.98px) {
+    #clock > h1 {
+        font-size: 4rem;
+    }
+}
